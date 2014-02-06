@@ -35,3 +35,5 @@ gem 'padrino', '0.11.4'
 # end
 
 gem 'metainspector'
+
+gem 'redis'
